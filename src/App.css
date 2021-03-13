@@ -1,0 +1,280 @@
+body {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #3f4850;
+}
+
+h2 {
+  font-size: 2em;
+  margin: 52px 0 40px;
+  text-transform: capitalize;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.search-form {
+  max-width: 460px;
+  display: flex;
+  margin: 0 auto 32px;
+}
+
+.search-form button {
+  outline: none;
+  background-color: #438bbd;
+  border: none;
+  padding: 0px 15px;
+  border-radius: 0 0.35em 0.35em 0;
+  cursor: pointer;
+}
+
+input {
+  font-size: 1em;
+  width: 100%;
+  background-color: #edeff0;
+  padding: 10px 15px;
+  border: 3px solid #d7dbdf;
+  border-right: none;
+  border-radius: 0.35em 0 0 0.35em;
+  outline: none;
+}
+
+.main-nav li {
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+.main-nav a {
+  display: block;
+  background: #438bbd;
+  border-radius: 3px;
+  padding: 5px;
+  color: #fff;
+}
+
+.main-nav .active,
+.main-nav a:hover,
+.search-form button:hover {
+  background-color: #275270;
+}
+
+.photo-container ul {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  -ms-align-items: flex-start;
+  align-items: flex-start;
+}
+
+.photo-container ul li {
+  width: 220px;
+  height: 165px;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+.photo-container ul img {
+  width: 100%;
+  transform: scale(1.25);
+  transition: transform 1.25s;
+}
+
+.photo-container li:hover img {
+  transform: scale(1.65);
+}
+
+.photo-container .not-found {
+  width: 100%;
+}
+
+@media only screen and (max-width: 767px)  {
+  body {
+    padding-top: 2em;
+  }
+
+  .photo-container li {
+    margin: auto;
+  }
+}
+
+@media only screen and (min-width: 768px)  {
+  body {
+    padding-top: 4em;
+  }
+
+  .container {
+    max-width: 960px;
+    margin: auto;
+  }
+
+  .main-nav ul {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .main-nav li {
+    margin: 10px;
+    width: 100px;
+  }
+}
+*{
+  transition: all 0.6s;
+}
+
+/* html {
+  height: 100%;
+} */
+
+/* body{
+  font-family: 'Lato', sans-serif;
+  color: #888;
+  margin: 0;
+} */
+
+*{
+  transition: all 0.6s !important;
+}
+
+
+#main404{
+  display: table;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
+
+.fof{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.fof h5{
+  font-size: 50px;
+  display: inline-block;
+  padding-right: 12px;
+  animation: type .5s alternate infinite;
+}
+
+@keyframes type {
+  from{box-shadow: inset -3px 0px 0px #888;}
+  to{box-shadow: inset -3px 0px 0px transparent;}
+}
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+.changeColor {
+  fill: #4f86ed;
+}
+
+#title {
+  font-size: 50%;
+  font-family: 'Merriweather', serif;
+}
+
+.cls-1 {
+  opacity: 0.3;
+}
+
+.cls-7 {
+  opacity: 0.8;
+}
+
+.cls-2 {
+  fill: #fff;
+}
+
+.cls-10,
+.cls-11,
+.cls-12,
+.cls-14,
+.cls-16,
+.cls-3 {
+  fill: none;
+}
+
+.cls-3 {
+  stroke: #5c7690;
+}
+
+.cls-10,
+.cls-11,
+.cls-12,
+.cls-3 {
+  stroke-miterlimit: 10;
+}
+
+.cls-14,
+.cls-15,
+.cls-16,
+.cls-3 {
+  stroke-width: 0.5px;
+}
+
+.cls-4 {
+  fill: #ffe1d9;
+}
+
+.cls-5 {
+  fill: #ffcfbf;
+}
+
+.cls-6 {
+  fill: #fecbb6;
+}
+
+.cls-9 {
+  fill: #fecb02;
+}
+
+.cls-10,
+.cls-12 {
+  stroke: #d26f51;
+}
+
+.cls-10,
+.cls-11 {
+  stroke-width: 0.38px;
+}
+
+.cls-11 {
+  stroke: #000;
+}
+
+.cls-12 {
+  stroke-width: 0.19px;
+}
+
+.cls-13 {
+  opacity: 0.45;
+}
+
+.cls-14,
+.cls-15,
+.cls-16 {
+  stroke: #b0bec5;
+  stroke-linejoin: round;
+}
+
+.cls-15 {
+  fill: #edf0f2;
+}
+
+.cls-16 {
+  stroke-linecap: round;
+}
+
+.cls-17 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 49.87px;
+  font-weight: 700;
+}
+
+.cls-18 {
+  fill: #fffdbb;
+  opacity: 0.5;
+}

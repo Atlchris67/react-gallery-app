@@ -1,2 +1,2 @@
 # react-gallery-app
-a little about Jack and Dianne.
+React gallery application bootstrapped created wtih Create React App tool

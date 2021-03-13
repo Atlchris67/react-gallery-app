@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- svg borrowed from  https://equitable.com/404 -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 271.7 222.3" style="enable-background:new 0 0 271.7 222.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CCCCCC;}
+	.st1{opacity:0.8;fill:none;stroke:#CCCCCC;stroke-width:12;enable-background:new    ;}
+	.st2{fill:none;stroke:#CCCCCC;stroke-width:10;stroke-linecap:round;}
+</style>
+<g id="Group_324" transform="translate(-888 -918)">
+	<g id="Group_317" transform="translate(-269.949 269.376)">
+		<path id="Path_11" class="st0" d="M1423.5,648.6h-259.4c-3.4,0-6.2,2.8-6.2,6.2l0,0v172.9c0,3.4,2.8,6.2,6.2,6.2c0,0,0,0,0,0
+			h123.5v24.7h-37.1c-3.4,0-6.2,2.7-6.3,6.1c0,3.4,2.7,6.2,6.1,6.3c0.1,0,0.1,0,0.2,0h86.5c3.4,0,6.2-2.7,6.3-6.1
+			c0-3.4-2.7-6.2-6.1-6.3c-0.1,0-0.1,0-0.2,0H1300v-24.7h123.5c3.4,0,6.2-2.8,6.2-6.2l0,0V654.8
+			C1429.7,651.4,1426.9,648.6,1423.5,648.6C1423.5,648.6,1423.5,648.6,1423.5,648.6L1423.5,648.6z M1417.3,821.5h-247V661h247
+			L1417.3,821.5z"/>
+	</g>
+	<line id="Line_1" class="st1" x1="958.5" y1="1043.5" x2="1088.5" y2="1043.5"/>
+	<g id="Group_318" transform="translate(684.754 -6)">
+		<line id="Line_3" class="st2" x1="314.7" y1="984.5" x2="287.5" y2="1011.7"/>
+	</g>
+	<g id="Group_319" transform="translate(759.5 -6)">
+		<line id="Line_2" class="st2" x1="287.5" y1="984.5" x2="314.7" y2="1011.7"/>
+	</g>
+</g>
+</svg>
